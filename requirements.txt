@@ -1,0 +1,6 @@
+gradio
+openai
+anthropic
+beautifulsoup4
+requests
+python-dotenv

@@ -1,0 +1,28 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+env/
+venv/
+.venv/
+
+# Ignore environment variables
+.env
+
+# macOS specific
+.DS_Store
+
+# Jupyter Notebooks checkpoints (if any)
+.ipynb_checkpoints/
+
+# VSCode settings (optional, if you use VSCode)
+.vscode/
+
+# Logs (optional)
+*.log
+
+# Ignore OS/system files
+Thumbs.db
